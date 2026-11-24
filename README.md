@@ -189,6 +189,9 @@ Software Engineer | Full Stack Developer
 - [LinkedIn](https://linkedin.com/in/abdullah-khalid-se)
 - [GitHub](https://github.com/Abdullah-Khalid-web)
 
+
+**Muhammad Nassar**
+Software Engineer | Full Stack Developer
 ---
 
 *An AI-powered hotel reservation experience combining conversational interfaces, voice interaction, and Laravel-based business logic.*git 
